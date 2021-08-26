@@ -1,1 +1,11 @@
+#Plugin by LittleAraaCute
+#This plugin is converted from Nukkit code
+#This plugin is allowed you to cancel player joining your server without proxy/waterdog
 
+#Message when player kicked from server
+#Default: Unable to connect to world
+kick-message: "Unable to connect to world"
+
+#This is waterdog's ip
+#Default ip: 127.0.0.1
+proxy-ip: "127.0.0.1"
