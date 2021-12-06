@@ -1,5 +1,5 @@
 name: OnlyProxyJoin
-author: LittleAraaCute, NakiFx
-main: LittleAraaCute\Main
-api: 3.0.0
-version: 1.0.0
+author: LittleAraaCute
+main: LittleAraaCute\OnlyProxyJoin\Main
+api: 4.0.0
+version: 2.0.0
